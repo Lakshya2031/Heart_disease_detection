@@ -121,4 +121,4 @@ if st.button('Predict'):
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='text-align: center; font-size: 13px;'>Made with ❤️ using Streamlit | Logistic Regression Model</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 13px;'>Made with using Streamlit | Logistic Regression Model</p>", unsafe_allow_html=True)
