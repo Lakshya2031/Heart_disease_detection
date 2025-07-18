@@ -12,7 +12,7 @@ import numpy as np
 import pickle
 
 # Load the saved model
-model = pickle.load(open('model4.pkl', 'rb'))
+model = pickle.load(open('model4.pkl', 'wb'))
 
 # Page configuration
 st.set_page_config(page_title="Heart Disease Prediction", layout="centered")
